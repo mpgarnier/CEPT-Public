@@ -12,7 +12,7 @@ We think that this is great demonstration of what is possible through the combin
 
 ### Prerequisites
 In order to run the code you will have to install Nupic.
-Detailed installation instruction are available [here](https://github.com/numenta/nupic/wiki/Installing-and-Building-NuPIC)
+Detailed installation instruction are available [here](https://github.com/numenta/nupic/wiki/Installing-and-Building-NuPIC).
 Further you will need to have Python 2.7 or higher installed.
 
 
