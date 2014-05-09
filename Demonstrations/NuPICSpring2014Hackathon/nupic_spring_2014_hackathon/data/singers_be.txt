@@ -1,0 +1,45 @@
+madonna,be,singer
+rihanna,be,singer
+cher,be,singer
+madonna,be,singer
+elton john,be,singer
+kurt cobain,be,singer
+stevie wonder,be,singer
+rod stewart,be,singer
+diana ross,be,singer
+marvin gaye,be,singer
+aretha franklin,be,singer
+bonnie tyler,be,singer
+elvis presley,be,singer
+jackson browne,be,singer
+johnny cash,be,singer
+linda ronstadt,be,singer
+tina turner,be,singer
+joe cocker,be,singer
+chaka khan,be,singer
+eric clapton,be,singer
+elton john,be,singer
+willie nelson,be,singer
+hank williams,be,singer
+mariah carey,be,singer
+ray charles,be,singer
+chuck berry,be,singer
+cher,be,singer
+alicia keys,be,singer
+bryan ferry,be,singer
+dusty springfield,be,singer
+donna summer,be,singer
+james taylor,be,singer
+james brown,be,singer
+carole king,be,singer
+buddy holly,be,singer
+bruce springsteen,be,singer
+dolly parton,be,singer
+otis redding,be,singer
+meat loaf,be,singer
+phil collins,be,singer
+pete townshend,be,singer
+roy orbison,be,singer
+jerry lee lewis,be,singer
+celine dion,be,singer
+alison krauss,be,singer

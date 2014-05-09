@@ -1,0 +1,13 @@
+eminem,be
+eminem,like
+niels bohr,be
+niels bohr,like
+albert einstein,be
+albert einstein,like
+tom cruise,like
+angelina jolie,like
+brad pitt,like
+physicists,like
+mathematicians,like
+actors,like
+physicists,be

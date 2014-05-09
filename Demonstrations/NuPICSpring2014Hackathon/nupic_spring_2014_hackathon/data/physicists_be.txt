@@ -1,0 +1,16 @@
+marie curie,be,physicist
+hans bethe,be,physicist
+peter debye,be,physicist
+otto stern,be,physicist
+pascual jordan,be,physicist
+felix bloch,be,physicist
+max planck,be,physicist
+richard feynman,be,physicist
+arnold sommerfeld,be,physicist
+enrico fermi,be,physicist
+lev landau,be,physicist
+steven weinberg,be,physicist
+james franck,be,physicist
+karl weierstrass,be,physicist
+hermann von helmholtz,be,physicist
+paul dirac,be,physicist

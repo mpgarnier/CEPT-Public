@@ -1,0 +1,18 @@
+bill clinton,be,politician
+silvio berlusconi,be,politician
+politicians,be,politician
+hillary clinton,be,politician
+ronald reagan,be,politician
+richard nixon,be,politician
+john mccain,be,politician
+mitt romney,be,politician
+thomas jefferson,be,politician
+bill clinton,be,politician
+silvio berlusconi,be,politician
+politicians,be,politician
+hillary clinton,be,politician
+ronald reagan,be,politician
+richard nixon,be,politician
+john mccain,be,politician
+mitt romney,be,politician
+thomas jefferson,be,politician
