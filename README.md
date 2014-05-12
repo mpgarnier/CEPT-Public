@@ -9,12 +9,11 @@ In the near future you will find the following items on this repository:
 <LI><B>Client-SDK:</B> Language bindings for Java, Javascript, Python, etc.</LI>
 <LI><B>Samples:</B> Sample-code that makes your life easier and gets you started.</LI>
 <LI><B>UI-Widgets:</B> Embeddable user interface components to adapt and use in your applications.</LI>
-<LI><B>Demosnstrations:</B> Source code of demonstration code using the CEPT API</LI>
+<LI><B>Demonstrations:</B> Source code of demonstration code using the CEPT API</LI>
 </UL>
 
-For the moment, the most exciting thing we placed in the repository is the Numenta Nupic Spring 2014 Hackathon demonstration code.
-The hackathon code demonstrates the combination of CEPT's Retina and Numenta's Cortical Learning Algorithm (CLA).
-For more information on this great event visit [numenta.org](http://numenta.org). 
+For the moment, the repository contains something we are really excited about: the Numenta Nupic Spring 2014 Hackathon demonstration code, which demonstrates the combination of CEPT's Retina and Numenta's Cortical Learning Algorithm (CLA).
+For more information on this amazing event, please visit [numenta.org](http://numenta.org). 
 
 
 License
