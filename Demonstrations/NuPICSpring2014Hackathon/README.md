@@ -4,8 +4,7 @@ This is the demonstration code of CEPT's contribution to the Numenta Spring 2014
 
 ### Overview
 The code demonstrates how Numenta's Cortical Learning Algorithm (CLA) and CEPT's Retina can be combined to
-form a small nimble fast-learning entity that figures out that actors and singers like fans and physicists and
-mathematicians are (surprisingly) more interested in mathematics.
+form a small, nimble, fast-learning entity that figures out that, on one hand, actors and singers like their fans and on the other hand, physicists and mathematicians are (surprisingly) more interested in mathematics.
 We think that this is great demonstration of what is possible through the combination of these two systems.
 
 
